@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\My Cinema 18\My Cinema 18\My Cinema 18\bin\Debug\My Cinema 18.exe.config
+C:\Users\DELL\source\repos\My Cinema 18\My Cinema 18\My Cinema 18\bin\Debug\My Cinema 18.exe
+C:\Users\DELL\source\repos\My Cinema 18\My Cinema 18\My Cinema 18\bin\Debug\My Cinema 18.pdb
+C:\Users\DELL\source\repos\My Cinema 18\My Cinema 18\My Cinema 18\obj\Debug\My Cinema 18.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\My Cinema 18\My Cinema 18\My Cinema 18\obj\Debug\My_Cinema_18.Form1.resources
+C:\Users\DELL\source\repos\My Cinema 18\My Cinema 18\My Cinema 18\obj\Debug\My_Cinema_18.Properties.Resources.resources
+C:\Users\DELL\source\repos\My Cinema 18\My Cinema 18\My Cinema 18\obj\Debug\My Cinema 18.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\My Cinema 18\My Cinema 18\My Cinema 18\obj\Debug\My Cinema 18.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\My Cinema 18\My Cinema 18\My Cinema 18\obj\Debug\My Cinema 18.exe
+C:\Users\DELL\source\repos\My Cinema 18\My Cinema 18\My Cinema 18\obj\Debug\My Cinema 18.pdb
