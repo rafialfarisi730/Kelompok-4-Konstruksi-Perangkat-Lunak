@@ -1,0 +1,10 @@
+C:\Users\M.Rafi Alfarisi\source\repos\MyCinema18\MyCinema18\bin\Debug\MyCinema18.exe.config
+C:\Users\M.Rafi Alfarisi\source\repos\MyCinema18\MyCinema18\bin\Debug\MyCinema18.exe
+C:\Users\M.Rafi Alfarisi\source\repos\MyCinema18\MyCinema18\bin\Debug\MyCinema18.pdb
+C:\Users\M.Rafi Alfarisi\source\repos\MyCinema18\MyCinema18\obj\Debug\MyCinema18.csprojAssemblyReference.cache
+C:\Users\M.Rafi Alfarisi\source\repos\MyCinema18\MyCinema18\obj\Debug\MyCinema18.Form1.resources
+C:\Users\M.Rafi Alfarisi\source\repos\MyCinema18\MyCinema18\obj\Debug\MyCinema18.Properties.Resources.resources
+C:\Users\M.Rafi Alfarisi\source\repos\MyCinema18\MyCinema18\obj\Debug\MyCinema18.csproj.GenerateResource.cache
+C:\Users\M.Rafi Alfarisi\source\repos\MyCinema18\MyCinema18\obj\Debug\MyCinema18.csproj.CoreCompileInputs.cache
+C:\Users\M.Rafi Alfarisi\source\repos\MyCinema18\MyCinema18\obj\Debug\MyCinema18.exe
+C:\Users\M.Rafi Alfarisi\source\repos\MyCinema18\MyCinema18\obj\Debug\MyCinema18.pdb
